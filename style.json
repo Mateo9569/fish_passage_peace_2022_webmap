@@ -141,6 +141,26 @@
 
       }
     },
+
+    {
+      "id": "first-nations-reserves",
+      "type": "line",
+      "source": "first-nations-reserves",
+      "layout": {
+        "visibility": "visible",
+        "line-cap": "round"
+      },
+      "source-layer": "whse_admin_boundaries.clab_indian_reserves",
+      "maxzoom": 19,
+      "minzoom": 5,
+      "paint": {
+        "line-color": "#000000",
+        "line-width": 4,
+        "line-opacity": 0.7
+
+      }
+    },
+
     {
       "id": "streams-steelhead-large",
       "type": "line",
