@@ -95,7 +95,7 @@
     "first-nations-reserves": {
       "type": "vector",
       "tiles": [
-        "https://tiles.hillcrestgeo.ca/bcfishpass/whse_admin_boundaries.clab_indian_reserves/{z}/{x}/{y}.pbf"
+        "http://www.a11s.one:7800/whse_admin_boundaries.clab_indian_reserves.json"
       ],
       "minzoom": 5,
       "maxzoom": 19
